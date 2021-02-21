@@ -6,7 +6,7 @@ Gereksinimler :
 
 Yapılacaklar :
 	
-	Server 2016 üzeirne ActiveDirectory kurulumu
+	Server 2016 üzerine ActiveDirectory kurulumu
 	Windows 10 işletim sistemini domain ortamına dahil etme
 	Req.ps1 dosyasını DC makinede çalıştırma
 	
